@@ -9,8 +9,8 @@
 - [Utilizando o Amazon Rekognition para identificar aglomerações (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/pt/blogs/aws-brasil/utilizando-o-amazon-rekognition-para-identificar-aglomeracoes/)
 
 ### Connect with me:
-[<img align="left" alt="gabrielbmartini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="gabrielbmartini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="gabrielbmartini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrielbmartini/)
+[<img align="left" alt="gabrielbmartini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gabrielbmartini/)
 
 <br />
 
