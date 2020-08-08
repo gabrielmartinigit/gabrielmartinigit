@@ -4,6 +4,8 @@
 - 🚀 I'm currently founding a tech NGO in Brazil (https://screamcompany.com.br/)
 - 🎨 Fun fact: I love to draw, make sculptures and play drums
 
+<br />
+
 ### GitHub Stats:
 <div>
   <div>
@@ -14,9 +16,13 @@
   </div>
 </div>
 
+<br />
+
 ### Articles and Blog Posts:
 - [Educação Imersiva com o Amazon Sumerian (Immersive Education with Amazon Sumerian)](https://aws.amazon.com/pt/blogs/aws-brasil/educacao-imersiva-com-o-amazon-sumerian/)
 - [Utilizando o Amazon Rekognition para identificar aglomerações (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/pt/blogs/aws-brasil/utilizando-o-amazon-rekognition-para-identificar-aglomeracoes/)
+
+<br />
 
 ### Connect with me:
 [<img align="left" alt="gabrielbmartini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
