@@ -69,3 +69,10 @@
 - [Case de Sucesso – Como a maior rede de estudos do Brasil está usando inteligência artificial para otimizar a busca de conteúdo em sua plataforma](https://aws.amazon.com/pt/blogs/aws-brasil/case-de-sucesso-como-a-maior-rede-de-estudos-do-brasil-esta-usando-inteligencia-artificial-para-otimizar-a-busca-de-conteudo-em-sua-plataforma/)
 - [Escalando executores self-hosted do GitHub Actions com Amazon ECS](https://aws.amazon.com/pt/blogs/aws-brasil/escalando-executores-self-hosted-do-github-actions-com-amazon-ecs/)
 - [Escalar las acciones de GitHub Ejecutantes autoalojados con Amazon ECS](https://aws.amazon.com/es/blogs/aws-spanish/escalar-las-acciones-de-github-ejecutantes-autoalojados-con-amazon-ecs/)
+
+### Webinars/Lives/Podcasts:
+
+- [AI&ML Week Brazil - Melhorando os resultados educacionais](https://youtu.be/yxlhYUFduRE)
+- [AI&ML Week Brazil - IA ML para análise de fraude e gerenciamento de riscos](https://youtu.be/F6eSnqpjCgM)
+- [2º dia - Fórum de Inteligência Artificial - AIXD - Aplicações](https://youtu.be/jeLvQv_8TTE)
+- [Dia 2 - Jornada eficiente para uma educação a distância de qualidade](https://youtu.be/hEEFar_vq9A)
