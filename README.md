@@ -78,3 +78,4 @@
 - [AI&ML Week Brazil - IA ML para análise de fraude e gerenciamento de riscos](https://youtu.be/F6eSnqpjCgM)
 - [2º dia - Fórum de Inteligência Artificial - AIXD - Aplicações](https://youtu.be/jeLvQv_8TTE)
 - [Dia 2 - Jornada eficiente para uma educação a distância de qualidade](https://youtu.be/hEEFar_vq9A)
+- [Segurança na Nuvem para o Setor Público Brasileiro](https://open.spotify.com/episode/3VRSXyFB4W0msF5WmCyme7?si=hvbGQ399QaSgGiJdtzKjyg)
