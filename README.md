@@ -71,6 +71,7 @@
 - [Caso de Éxito – Cómo la red de estudios más grande de Brasil utiliza inteligencia artificial para optimizar la búsqueda de contenido en su plataforma](https://aws.amazon.com/es/blogs/aws-spanish/caso-de-exito-como-la-red-de-estudios-mas-grande-de-brasil-utiliza-inteligencia-artificial-para-optimizar-la-busqueda-de-contenido-en-su-plataforma/)
 - [Escalando executores self-hosted do GitHub Actions com Amazon ECS](https://aws.amazon.com/pt/blogs/aws-brasil/escalando-executores-self-hosted-do-github-actions-com-amazon-ecs/)
 - [Escalar las acciones de GitHub Ejecutantes autoalojados con Amazon ECS](https://aws.amazon.com/es/blogs/aws-spanish/escalar-las-acciones-de-github-ejecutantes-autoalojados-con-amazon-ecs/)
+- [Case de Sucesso – Como a Passei Direto captura e analisa dados de milhões de eventos diários com a AWS](https://aws.amazon.com/pt/blogs/aws-brasil/case-de-sucesso-como-a-passei-direto-captura-e-analisa-dados-de-milhoes-de-eventos-diarios-com-a-aws/)
 
 ### Webinars/Lives/Podcasts:
 
