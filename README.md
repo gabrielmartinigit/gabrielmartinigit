@@ -85,3 +85,5 @@
 - [Segurança na Nuvem para o Setor Público Brasileiro](https://open.spotify.com/episode/3VRSXyFB4W0msF5WmCyme7?si=hvbGQ399QaSgGiJdtzKjyg)
 - [Re:Invent 2021 - Machine Learning chega ao DevOps](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=87F71D0DCD1DA6C7276F415A506118B49EA678710E4543B15CF7F94CD0D61C10FC200A543BD1DA363A35390288277332)
 - [CCTD Governo do Ceará - Introdução AI/ML na AWS](http://jornadasdigitais.cctd.ce.gov.br/index.php)
+
+https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gabrielmartinigit&color=00df00
