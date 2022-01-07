@@ -71,6 +71,9 @@
 - [Caso de Éxito – Cómo la red de estudios más grande de Brasil utiliza inteligencia artificial para optimizar la búsqueda de contenido en su plataforma](https://aws.amazon.com/es/blogs/aws-spanish/caso-de-exito-como-la-red-de-estudios-mas-grande-de-brasil-utiliza-inteligencia-artificial-para-optimizar-la-busqueda-de-contenido-en-su-plataforma/)
 - [Escalando executores self-hosted do GitHub Actions com Amazon ECS](https://aws.amazon.com/pt/blogs/aws-brasil/escalando-executores-self-hosted-do-github-actions-com-amazon-ecs/)
 - [Escalar las acciones de GitHub Ejecutantes autoalojados con Amazon ECS](https://aws.amazon.com/es/blogs/aws-spanish/escalar-las-acciones-de-github-ejecutantes-autoalojados-con-amazon-ecs/)
+- [Utilizando runtimes customizados no Amazon ECS](https://aws.amazon.com/pt/blogs/aws-brasil/utilizando-runtimes-customizados-no-amazon-ecs/)
+- [Uso de runtimes personalizados en Amazon ECS](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-runtimes-personalizados-en-amazon-ecs/)
+- [16 Benefícios do Amazon EKS para se considerar quando escolher sua opção de deploy](https://aws.amazon.com/pt/blogs/aws-brasil/16-beneficios-do-amazon-eks-para-se-considerar-quando-escolher-sua-opcao-de-deploy/)
 - [Case de Sucesso – Como a Passei Direto captura e analisa dados de milhões de eventos diários com a AWS](https://aws.amazon.com/pt/blogs/aws-brasil/case-de-sucesso-como-a-passei-direto-captura-e-analisa-dados-de-milhoes-de-eventos-diarios-com-a-aws/)
 
 ### Webinars/Lives/Podcasts:
@@ -80,3 +83,5 @@
 - [2º dia - Fórum de Inteligência Artificial - AIXD - Aplicações](https://youtu.be/jeLvQv_8TTE)
 - [Dia 2 - Jornada eficiente para uma educação a distância de qualidade](https://youtu.be/hEEFar_vq9A)
 - [Segurança na Nuvem para o Setor Público Brasileiro](https://open.spotify.com/episode/3VRSXyFB4W0msF5WmCyme7?si=hvbGQ399QaSgGiJdtzKjyg)
+- [Re:Invent 2021 - Machine Learning chega ao DevOps](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=87F71D0DCD1DA6C7276F415A506118B49EA678710E4543B15CF7F94CD0D61C10FC200A543BD1DA363A35390288277332)
+- [CCTD Governo do Ceará - Introdução AI/ML na AWS](http://jornadasdigitais.cctd.ce.gov.br/index.php)
