@@ -83,6 +83,8 @@
 - [2º dia - Fórum de Inteligência Artificial - AIXD - Aplicações](https://youtu.be/jeLvQv_8TTE)
 - [Dia 2 - Jornada eficiente para uma educação a distância de qualidade](https://youtu.be/hEEFar_vq9A)
 - [Segurança na Nuvem para o Setor Público Brasileiro](https://open.spotify.com/episode/3VRSXyFB4W0msF5WmCyme7?si=hvbGQ399QaSgGiJdtzKjyg)
+- [Como a IA e ML tem impactado o setor público brasileiro](https://open.spotify.com/episode/77CdbuUy4bQusbW3ssmiyL?si=9GLUmUJYQ2GPepd4L9nxaw)
+- [PUC SP - Introdução ao Servless na AWS](https://youtu.be/RdQ1X-8UNOM)
 - [Re:Invent 2021 - Machine Learning chega ao DevOps](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=87F71D0DCD1DA6C7276F415A506118B49EA678710E4543B15CF7F94CD0D61C10FC200A543BD1DA363A35390288277332)
 - [CCTD Governo do Ceará - Introdução AI/ML na AWS](http://jornadasdigitais.cctd.ce.gov.br/index.php)
 
