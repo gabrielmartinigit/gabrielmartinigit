@@ -35,7 +35,7 @@
 
 <div>
 <span>
-     <img alt="Gabriel Martini's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact&theme=dracula&count_private=true" />
+     <img alt="Gabriel Martini's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinigit&theme=dracula&count_private=true&layout=compact&langs_count=10" />
 </span>
 
 <span>
@@ -47,7 +47,6 @@
 
 ### Articles and Blog Posts:
 
-<div>
 - [Educação Imersiva com o Amazon Sumerian (Immersive Education with Amazon Sumerian)](https://aws.amazon.com/pt/blogs/aws-brasil/educacao-imersiva-com-o-amazon-sumerian/)
 - [Utilizando o Amazon Rekognition para identificar aglomerações (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/pt/blogs/aws-brasil/utilizando-o-amazon-rekognition-para-identificar-aglomeracoes/)
 - [Uso de Amazon Rekognition para identificar clústeres (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-amazon-rekognition-para-identificar-clusteres/)
@@ -80,4 +79,3 @@
 - [AMER Innovate for Every App 2022](https://aws.amazon.com/events/innovate-online-conference/every-application/americas/)
 - [FNESP Ciência de dados para o relacionamento com o estudante](https://www.semesp.org.br/fnesp/esquenta/)
 - [Unopar Academy Live](https://www.instagram.com/reel/CdHLho3ujiY/)
-</div>
