@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257" width="30" /> Hi there, I'm Gabriel Martini <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257"
         width="30" />
@@ -13,9 +14,10 @@
         <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+</div>
 
 ### About me:
-
+<div>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="170" />
 
 <p align="left">
@@ -25,23 +27,27 @@
         🎨 Fun fact: I love art in general, I take pictures, draw and work with CGI in my free time. <a href="https://total90.com.br">Check my work :D</a> <br />
     </samp>
 </p>
+</div>
 
 <br />
   
 ### Languages and Tools:
 
+<div>
 <span>
-    <img align="right" width="55%" alt="Gabriel Martini's github stats." src="https://github-readme-stats.vercel.app/api?username=gabrielmartinigit&show_icons=true&theme=dracula&count_private=true" />
+     <img alt="Gabriel Martini's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact&theme=dracula&count_private=true" />
 </span>
-  
+
 <span>
-     <img align="left" width="45%" alt="Gabriel Martini's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact&theme=dracula&count_private=true" />
+    <img  alt="Gabriel Martini's github stats." src="https://github-readme-stats.vercel.app/api?username=gabrielmartinigit&show_icons=true&theme=dracula&count_private=true" />
 </span>
+</div>
 
 <br />
 
 ### Articles and Blog Posts:
 
+<div>
 - [Educação Imersiva com o Amazon Sumerian (Immersive Education with Amazon Sumerian)](https://aws.amazon.com/pt/blogs/aws-brasil/educacao-imersiva-com-o-amazon-sumerian/)
 - [Utilizando o Amazon Rekognition para identificar aglomerações (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/pt/blogs/aws-brasil/utilizando-o-amazon-rekognition-para-identificar-aglomeracoes/)
 - [Uso de Amazon Rekognition para identificar clústeres (Using Amazon Rekognition to identify agglomerations)](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-amazon-rekognition-para-identificar-clusteres/)
@@ -74,3 +80,4 @@
 - [AMER Innovate for Every App 2022](https://aws.amazon.com/events/innovate-online-conference/every-application/americas/)
 - [FNESP Ciência de dados para o relacionamento com o estudante](https://www.semesp.org.br/fnesp/esquenta/)
 - [Unopar Academy Live](https://www.instagram.com/reel/CdHLho3ujiY/)
+</div>
