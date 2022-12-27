@@ -20,10 +20,9 @@
 
 <p align="left">
     <samp>
-        🔩 I’m currently working on AWS as Solutions Architect <br />
-        🎓 I’m currently learning AI/ML and finishing a postgraduate study in Software Engineering <br />
-        🚀 I'm currently founding a tech NGO in Brazil (https://screamcompany.com.br/) <br />
-        🎨 Fun fact: I love to draw, make sculptures and play drums <br />
+        🔩 I’m currently working on AWS as Senior Solutions Architect <br />
+        🎓 I’m postgraduate in Software Engineering and currently doing a master dregree in AI/ML <br />
+        🎨 Fun fact: I love art in general, I take pictures, draw and work with CGI in my free time. [Check my work :D](https://total90.com.br) <br />
     </samp>
 </p>
 
@@ -87,5 +86,3 @@
 - [PUC SP - Introdução ao Servless na AWS](https://youtu.be/RdQ1X-8UNOM)
 - [Re:Invent 2021 - Machine Learning chega ao DevOps](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=87F71D0DCD1DA6C7276F415A506118B49EA678710E4543B15CF7F94CD0D61C10FC200A543BD1DA363A35390288277332)
 - [CCTD Governo do Ceará - Introdução AI/ML na AWS](http://jornadasdigitais.cctd.ce.gov.br/index.php)
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gabrielmartinigit&color=00df00)
