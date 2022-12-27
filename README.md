@@ -74,6 +74,8 @@
 - [Uso de runtimes personalizados en Amazon ECS](https://aws.amazon.com/es/blogs/aws-spanish/uso-de-runtimes-personalizados-en-amazon-ecs/)
 - [16 Benefícios do Amazon EKS para se considerar quando escolher sua opção de deploy](https://aws.amazon.com/pt/blogs/aws-brasil/16-beneficios-do-amazon-eks-para-se-considerar-quando-escolher-sua-opcao-de-deploy/)
 - [Case de Sucesso – Como a Passei Direto captura e analisa dados de milhões de eventos diários com a AWS](https://aws.amazon.com/pt/blogs/aws-brasil/case-de-sucesso-como-a-passei-direto-captura-e-analisa-dados-de-milhoes-de-eventos-diarios-com-a-aws/)
+- [Case de Sucesso – Migração do Sistema Positivo de Ensino para AWS](https://aws.amazon.com/pt/blogs/aws-brasil/case-de-sucesso-migracao-do-sistema-positivo-de-ensino-para-aws/)
+- [Faça o stream de logs para uma conta centralizada utilizando serviços Serverless](https://aws.amazon.com/pt/blogs/aws-brasil/faca-o-stream-de-logs-para-uma-conta-centralizada-utilizando-servicos-serverless/)
 
 ### Webinars/Lives/Podcasts:
 
@@ -86,3 +88,7 @@
 - [PUC SP - Introdução ao Servless na AWS](https://youtu.be/RdQ1X-8UNOM)
 - [Re:Invent 2021 - Machine Learning chega ao DevOps](https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=87F71D0DCD1DA6C7276F415A506118B49EA678710E4543B15CF7F94CD0D61C10FC200A543BD1DA363A35390288277332)
 - [CCTD Governo do Ceará - Introdução AI/ML na AWS](http://jornadasdigitais.cctd.ce.gov.br/index.php)
+- [AMER Innovate AI/ML 2022](https://aws.amazon.com/events/innovate-online-conference/americas/)
+- [AMER Innovate for Every App 2022](https://aws.amazon.com/events/innovate-online-conference/every-application/americas/)
+- [FNESP Ciência de dados para o relacionamento com o estudante](https://www.semesp.org.br/fnesp/esquenta/)
+- [Unopar Academy Live](https://www.instagram.com/reel/CdHLho3ujiY/)
