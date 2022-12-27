@@ -35,7 +35,7 @@
 </span>
   
 <span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+     <img align="left" width="45%" alt="Gabriel Martini's Top Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact&theme=dracula&count_private=true" />
 </span>
 
 <br />
