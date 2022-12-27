@@ -35,25 +35,7 @@
 </span>
   
 <span>
-    <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-    <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-    <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg">
-    <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
 <br />
