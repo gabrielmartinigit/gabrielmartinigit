@@ -22,7 +22,7 @@
     <samp>
         🔩 I’m currently working on AWS as Senior Solutions Architect <br />
         🎓 I’m postgraduate in Software Engineering and currently doing a master dregree in AI/ML <br />
-        🎨 Fun fact: I love art in general, I take pictures, draw and work with CGI in my free time. [Check my work :D](https://total90.com.br) <br />
+        🎨 Fun fact: I love art in general, I take pictures, draw and work with CGI in my free time. <a href="https://total90.com.br">Check my work :D</a> <br />
     </samp>
 </p>
 
