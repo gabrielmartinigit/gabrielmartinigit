@@ -79,3 +79,4 @@
 - [AMER Innovate for Every App 2022](https://aws.amazon.com/events/innovate-online-conference/every-application/americas/)
 - [FNESP Ciência de dados para o relacionamento com o estudante](https://www.semesp.org.br/fnesp/esquenta/)
 - [Unopar Academy Live](https://www.instagram.com/reel/CdHLho3ujiY/)
+- [Unisinos Aula Inaugural](https://www.unisinos.br/noticias/aula-inaugural-do-curso-de-ti-recebe-palestrantes-da-amazon-web-services/)
